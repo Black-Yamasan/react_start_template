@@ -3,4 +3,6 @@ Thumbs.db
 npm-debug.log
 node_modules/
 htdocs/
-dist/*.js
+dist/*
+!dist/
+!dist/index.html
